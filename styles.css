@@ -1,197 +1,177 @@
-.everything{
-	width: 90%;
-	margin: 45px;
+.everything {
+    width: 90%;
+    margin: 45px;
 }
 
-
-.text-box{
-	width: 79%;
-	font-size: 20px;
-	line-height: 30px;
-	margin: auto;
-	text-align: justify;
-	font-family: sans-serif;
-
-}
-
-
-
-.welcome{
-	float: right;
-	margin-right: 100px;
+.text-box {
+    width: 79%;
     font-size: 20px;
-
+    line-height: 30px;
+    margin: auto;
+    text-align: justify;
+    font-family: sans-serif;
 }
 
-
-
-.big-box{
-	margin: 30px;
-
+.welcome {
+    float: right;
+    margin-right: 100px;
+    font-size: 20px;
 }
 
-.multiple-one{
-	display: flex;
-	margin: 50px;
-	padding: 10px;
+.big-box {
+    margin: 30px;
+}
+
+.multiple-one {
+    display: flex;
+    margin: 50px;
+    padding: 10px;
     margin-top: 80px;
-
 }
 
-.multiple-two{
-	display: flex;
-	margin: 50px;
-	padding: 10px;
-
+.multiple-two {
+    display: flex;
+    margin: 50px;
+    padding: 10px;
 }
 
-.multiple-three{
-	display: flex;
-	margin: 50px;
-	padding: 10px;
-
+.multiple-three {
+    display: flex;
+    margin: 50px;
+    padding: 10px;
 }
 
-.multiple-four{
-	display: flex;
-	margin: 50px;
-	padding: 10px;
-
+.multiple-four {
+    display: flex;
+    margin: 50px;
+    padding: 10px;
 }
 
-
-.one{
-	height: 140px;
-	width: 25%;
-	
+.one {
+    height: 140px;
+    width: 25%;
 }
 
-.two{
-	height: 140px;
-	width: 25%;
-	margin-left: 100px;
+.two {
+    height: 140px;
+    width: 25%;
+    margin-left: 100px;
 }
 
-.three{
-	height: 140px;
-	width: 25%;
-	margin-left: 100px;
+.three {
+    height: 140px;
+    width: 25%;
+    margin-left: 100px;
 }
 
-.four{
-	height: 140px;
-	width: 25%;
-	margin-left: 100px;
+.four {
+    height: 140px;
+    width: 25%;
+    margin-left: 100px;
 }
 
-.five{
-	height: 140px;
-	width: 25%;
-
+.five {
+    height: 140px;
+    width: 25%;
 }
 
-.six{
-	height: 140px;
-	width: 25%;
-	margin-left: 100px;
+.six {
+    height: 140px;
+    width: 25%;
+    margin-left: 100px;
 }
 
-.seven{
-	height: 140px;
-	width: 25%;
-	margin-left: 100px;
+.seven {
+    height: 140px;
+    width: 25%;
+    margin-left: 100px;
 }
 
-.eight{
-	height: 140px;
-	width: 25%;
-	margin-left: 100px;
+.eight {
+    height: 140px;
+    width: 25%;
+    margin-left: 100px;
 }
 
-.nine{
-	height: 140px;
-	width: 25%;
-	
+.nine {
+    height: 140px;
+    width: 25%;
 }
 
-.ten{
-	height: 140px;
-	width: 25%;
-	margin-left: 100px;
+.ten {
+    height: 140px;
+    width: 25%;
+    margin-left: 100px;
 }
 
-.eleven{
-	height: 140px;
-	width: 25%;
-	margin-left: 100px;
+.eleven {
+    height: 140px;
+    width: 25%;
+    margin-left: 100px;
 }
 
-.twelve{
-	height: 140px;
-	width: 25%;
-	margin-left: 100px;
+.twelve {
+    height: 140px;
+    width: 25%;
+    margin-left: 100px;
 }
 
-.thirteen{
-	height: 140px;
-	width: 25%;
-	
+.thirteen {
+    height: 140px;
+    width: 25%;
 }
 
-.fourteen{
-	height: 140px;
-	width: 25%;
-	margin-left: 100px;
+.fourteen {
+    height: 140px;
+    width: 25%;
+    margin-left: 100px;
 }
 
-.fifteen{
-	height: 140px;
-	width: 25%;
-	margin-left: 100px;
+.fifteen {
+    height: 140px;
+    width: 25%;
+    margin-left: 100px;
 }
 
-.sixteen{
-	height: 140px;
-	width: 25%;
-	margin-left: 100px;
-
+.sixteen {
+    height: 140px;
+    width: 25%;
+    margin-left: 100px;
 }
 
-.footer{
-	width: 80%;
-	margin-left: 13%;
-	font-size: 13px;
-	margin-top: 20px;
-	font-family: sans-serif;
-
-
-}
-
-.terms{
-	margin-left: 40%;
-	display: inline-block;
-	margin-top: 20px;
-
-}
-
-.privacy{
-	margin-left: 23px;
-	display: inline-block;
+.footer {
+    width: 80%;
+    margin-left: 13%;
+    font-size: 13px;
     margin-top: 20px;
-
+    font-family: sans-serif;
 }
 
-a, a:active, a:focus {
-	unicode-bidi: embed;
-	white-space: nowrap;
-	outline: 0;
-	outline-color: initial;
-	outline-style: initial;
-	outline-width: 0px;
-	color: #0645AD;
-	text-decoration: none;
-}	
+.terms {
+    margin-left: 40%;
+    display: inline-block;
+    margin-top: 20px;
+}
 
-img{
-	max-width: 200%;
+.privacy {
+    margin-left: 23px;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+a,
+a:active,
+a:focus {
+    unicode-bidi: embed;
+    white-space: nowrap;
+    outline: 0;
+    outline-color: initial;
+    outline-style: initial;
+    outline-width: 0px;
+    color: #0645AD;
+    text-decoration: none;
+}
+
+img {
+    max-width: 200%;
 }
