@@ -192,3 +192,7 @@ a, a:active, a:focus {
 	color: #0645AD;
 	text-decoration: none;
 }	
+
+img{
+	max-width: 200%;
+}
